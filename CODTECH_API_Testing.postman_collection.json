@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "21ee6a86-cf7c-4308-8684-ba621b8b03ea",
+		"name": "CODTECH_API_Testing",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "51223908",
+		"_collection_link": "https://kandimallakarthik4-5406987.postman.co/workspace/Kandimalla-Karthik's-Workspace~60cf8c8b-f357-4b24-836e-cdd9eb70acda/collection/51223908-21ee6a86-cf7c-4308-8684-ba621b8b03ea?action=share&source=collection_link&creator=51223908"
+	},
+	"item": [
+		{
+			"name": "User Login",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Fetch Users",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
