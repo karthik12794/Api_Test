@@ -64,4 +64,10 @@ Documented Everything Professionally
 
   ## POST Request (User Login):
 
+  <img width="1912" height="1004" alt="Image" src="https://github.com/user-attachments/assets/b3e8ae93-6534-43a0-9a79-53e879b5a160" />
+
+  ## GET Request (Fetch Users):
+
+  
+
   
