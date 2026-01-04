@@ -68,6 +68,7 @@ Documented Everything Professionally
 
   ## GET Request (Fetch Users):
 
+ <img width="1912" height="1023" alt="Image" src="https://github.com/user-attachments/assets/c81da54c-15bd-4976-970c-8916facf4aea" />
   
 
   
