@@ -61,3 +61,7 @@ Saved Postman collection, screenshots, and README in the folder.
 Documented Everything Professionally
 
 ## output
+
+  ## POST Request (User Login):
+
+  
